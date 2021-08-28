@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testCases.Find_a_Flight_3_3_1"/>
+      <class name="testCases.ExecuteTest_Local"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19825" started-at="2021-06-11T11:45:02Z" finished-at="2021-06-11T11:45:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19825" started-at="2021-06-11T11:45:02Z" finished-at="2021-06-11T11:45:22Z">
+      <class name="testCases.ExecuteTest_UsingExcel">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testCases.ExecuteTest_UsingExcel@5f341870]" name="testLogin" duration-ms="19793" started-at="2021-06-11T17:15:02Z" finished-at="2021-06-11T17:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- testCases.ExecuteTest_UsingExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
